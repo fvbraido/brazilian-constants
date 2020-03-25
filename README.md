@@ -1,5 +1,5 @@
-# brazilian-contants
-A simple package to quickly use contants.
+# brazilian-constants
+A simple package to quickly use constants.
 
 Includes:
 

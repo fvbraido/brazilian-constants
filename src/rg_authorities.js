@@ -1,4 +1,4 @@
-export const rgie_authorities = [
+export const rg_authorities = [
     {value: 'ABNC', label: 'ABNC - Academia Brasileira de Neurocirurgia', main: false},
     {value: 'CGPI', label: 'CGPI - Coordenação-Geral de Privilégios e Imunidades', main: false},
     {value: 'CGPI/DUREX/DPF', label: 'CGPI/DUREX/DPF - Coordenação Geral de Polícia de Imigração da Polícia Federal', main: false},

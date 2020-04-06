@@ -1,6 +1,6 @@
 {
     "name": "brazilian-constants",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "CNPJ Natures, Professions, RG Authorities, Nationalities and International Phone Numbers",
     "main": "dist/index.js",
     "scripts": {
@@ -13,7 +13,11 @@
     "keywords": [
         "npm"
     ],
-    "author": "Felipe Braido",
+    "author": {
+        "name": "Felipe Braido",
+        "url": "https://github.com/fvbraido",
+        "email": "fvbraido@gmail.com"
+    },
     "license": "MIT",
     "devDependencies": {
         "@babel/core": "^7.2.2",

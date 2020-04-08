@@ -26,3 +26,7 @@ export {
 export {
   rg_authorities,
 } from './rg_authorities'
+
+export {
+  motivation,
+} from './motivation'

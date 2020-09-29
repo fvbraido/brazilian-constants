@@ -3,6 +3,10 @@ export {
 } from './brazilian_districts'
 
 export {
+  brazilian_banks
+} from "./brazilian_banks"
+
+export {
   cnpj_nature,
 } from './cnpj_nature'
 
@@ -30,3 +34,7 @@ export {
 export {
   motivation,
 } from './motivation'
+
+export {
+  brazilian_kind_street
+} from './brazilian_kind_street'

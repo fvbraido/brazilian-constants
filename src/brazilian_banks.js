@@ -1,4 +1,4 @@
-export const brazilian_districts = [
+export const brazilian_banks = [
     {id: "748", ispb: "1181521", label: "BCO COOPERATIVO SICREDI S.A."},
     {id: "104", ispb: "360305", label: "CAIXA ECONOMICA FEDERAL"},
     {id: "1", ispb: "0", label: "BCO DO BRASIL S.A."},

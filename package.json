@@ -1,6 +1,6 @@
 {
     "name": "brazilian-constants",
-    "version": "1.0.2",
+    "version": "1.0.7",
     "description": "CNPJ Natures, Professions, RG Authorities, Nationalities and International Phone Numbers",
     "main": "dist/index.js",
     "scripts": {
